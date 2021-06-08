@@ -43,6 +43,11 @@ class Zone extends Api
         $this->error('新增广告位失败');
     }
 
+    public function getAdType(){
+        $type = Db::table('ad')->distinct('SPEND_TYPE')->where('IS_EFFECTIVE', '=', 1)->select();
+
+
+    }
 
 
 
