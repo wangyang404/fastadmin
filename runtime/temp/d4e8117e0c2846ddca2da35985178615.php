@@ -1,0 +1,156 @@
+<?php if (!defined('THINK_PATH')) exit(); /*a:4:{s:87:"D:\phpstudy_pro\WWW\FastAdmin\public/../application/admin\view\stat_total_day\edit.html";i:1621307563;s:72:"D:\phpstudy_pro\WWW\FastAdmin\application\admin\view\layout\default.html";i:1555662057;s:69:"D:\phpstudy_pro\WWW\FastAdmin\application\admin\view\common\meta.html";i:1555662057;s:71:"D:\phpstudy_pro\WWW\FastAdmin\application\admin\view\common\script.html";i:1555662057;}*/ ?>
+<!DOCTYPE html>
+<html lang="<?php echo $config['language']; ?>">
+    <head>
+        <meta charset="utf-8">
+<title><?php echo (isset($title) && ($title !== '')?$title:''); ?></title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta name="renderer" content="webkit">
+
+<link rel="shortcut icon" href="/FastAdmin/public/assets/img/favicon.ico" />
+<!-- Loading Bootstrap -->
+<link href="/FastAdmin/public/assets/css/backend<?php echo \think\Config::get('app_debug')?'':'.min'; ?>.css?v=<?php echo \think\Config::get('site.version'); ?>" rel="stylesheet">
+
+<!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
+<!--[if lt IE 9]>
+  <script src="/FastAdmin/public/assets/js/html5shiv.js"></script>
+  <script src="/FastAdmin/public/assets/js/respond.min.js"></script>
+<![endif]-->
+<script type="text/javascript">
+    var require = {
+        config:  <?php echo json_encode($config); ?>
+    };
+</script>
+    </head>
+
+    <body class="inside-header inside-aside <?php echo defined('IS_DIALOG') && IS_DIALOG ? 'is-dialog' : ''; ?>">
+        <div id="main" role="main">
+            <div class="tab-content tab-addtabs">
+                <div id="content">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                            <section class="content-header hide">
+                                <h1>
+                                    <?php echo __('Dashboard'); ?>
+                                    <small><?php echo __('Control panel'); ?></small>
+                                </h1>
+                            </section>
+                            <?php if(!IS_DIALOG && !$config['fastadmin']['multiplenav']): ?>
+                            <!-- RIBBON -->
+                            <div id="ribbon">
+                                <ol class="breadcrumb pull-left">
+                                    <li><a href="dashboard" class="addtabsit"><i class="fa fa-dashboard"></i> <?php echo __('Dashboard'); ?></a></li>
+                                </ol>
+                                <ol class="breadcrumb pull-right">
+                                    <?php foreach($breadcrumb as $vo): ?>
+                                    <li><a href="javascript:;" data-url="<?php echo $vo['url']; ?>"><?php echo $vo['title']; ?></a></li>
+                                    <?php endforeach; ?>
+                                </ol>
+                            </div>
+                            <!-- END RIBBON -->
+                            <?php endif; ?>
+                            <div class="content">
+                                <form id="edit-form" class="form-horizontal" role="form" data-toggle="validator" method="POST" action="">
+
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2"><?php echo __('Stat_date'); ?>:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-STAT_DATE" class="form-control" name="row[STAT_DATE]" type="text" value="<?php echo $row['STAT_DATE']; ?>">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2"><?php echo __('Pv_num'); ?>:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-PV_NUM" class="form-control" name="row[PV_NUM]" type="number" value="<?php echo $row['PV_NUM']; ?>">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2"><?php echo __('Uv_num'); ?>:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-UV_NUM" class="form-control" name="row[UV_NUM]" type="number" value="<?php echo $row['UV_NUM']; ?>">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2"><?php echo __('Ip_num'); ?>:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-IP_NUM" class="form-control" name="row[IP_NUM]" type="number" value="<?php echo $row['IP_NUM']; ?>">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2"><?php echo __('Click_num'); ?>:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-CLICK_NUM" class="form-control" name="row[CLICK_NUM]" type="number" value="<?php echo $row['CLICK_NUM']; ?>">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2"><?php echo __('Click_uv_num'); ?>:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-CLICK_UV_NUM" class="form-control" name="row[CLICK_UV_NUM]" type="number" value="<?php echo $row['CLICK_UV_NUM']; ?>">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2"><?php echo __('Click_ip_num'); ?>:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-CLICK_IP_NUM" class="form-control" name="row[CLICK_IP_NUM]" type="number" value="<?php echo $row['CLICK_IP_NUM']; ?>">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2"><?php echo __('Ad_user_spend'); ?>:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-AD_USER_SPEND" class="form-control" step="0.00000001" name="row[AD_USER_SPEND]" type="number" value="<?php echo $row['AD_USER_SPEND']; ?>">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2"><?php echo __('Site_user_profit'); ?>:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-SITE_USER_PROFIT" class="form-control" step="0.00000001" name="row[SITE_USER_PROFIT]" type="number" value="<?php echo $row['SITE_USER_PROFIT']; ?>">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2"><?php echo __('Admin_user_profit'); ?>:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-ADMIN_USER_PROFIT" class="form-control" step="0.00000001" name="row[ADMIN_USER_PROFIT]" type="number" value="<?php echo $row['ADMIN_USER_PROFIT']; ?>">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2"><?php echo __('Customer_user_profit'); ?>:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-CUSTOMER_USER_PROFIT" class="form-control" step="0.00000001" name="row[CUSTOMER_USER_PROFIT]" type="number" value="<?php echo $row['CUSTOMER_USER_PROFIT']; ?>">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2"><?php echo __('Business_user_profit'); ?>:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-BUSINESS_USER_PROFIT" class="form-control" step="0.00000001" name="row[BUSINESS_USER_PROFIT]" type="number" value="<?php echo $row['BUSINESS_USER_PROFIT']; ?>">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2"><?php echo __('Create_time'); ?>:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-CREATE_TIME" class="form-control datetimepicker" data-date-format="YYYY-MM-DD HH:mm:ss" data-use-current="true" name="row[CREATE_TIME]" type="text" value="<?php echo $row['CREATE_TIME']; ?>">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2"><?php echo __('Update_time'); ?>:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-UPDATE_TIME" class="form-control datetimepicker" data-date-format="YYYY-MM-DD HH:mm:ss" data-use-current="true" name="row[UPDATE_TIME]" type="text" value="<?php echo $row['UPDATE_TIME']; ?>">
+        </div>
+    </div>
+    <div class="form-group layer-footer">
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="submit" class="btn btn-success btn-embossed disabled"><?php echo __('OK'); ?></button>
+            <button type="reset" class="btn btn-default btn-embossed"><?php echo __('Reset'); ?></button>
+        </div>
+    </div>
+</form>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="/FastAdmin/public/assets/js/require<?php echo \think\Config::get('app_debug')?'':'.min'; ?>.js" data-main="/FastAdmin/public/assets/js/require-backend<?php echo \think\Config::get('app_debug')?'':'.min'; ?>.js?v=<?php echo $site['version']; ?>"></script>
+    </body>
+</html>

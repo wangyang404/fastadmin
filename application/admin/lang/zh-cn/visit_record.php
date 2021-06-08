@@ -1,0 +1,33 @@
+<?php
+
+return [
+    'Id'              => '主键',
+    'Site_user_id'    => '网站主ID',
+    'Ad_id'           => '广告ID',
+    'Plan_id'         => '计划ID',
+    'Spend_type'      => '计费类型 cpc,cpv',
+    'Price'           => '结算金额',
+    'Ad_price'        => '广告价格',
+    'Ip_address'      => 'IP',
+    'Referer_url'     => '网站地址',
+    'Browser_name'    => '浏览器名称',
+    'Browser_version' => '浏览器版本',
+    'User_agent'      => 'user-agent',
+    'Os'              => '操作系统',
+    'Screen'          => '屏幕尺寸',
+    'Click_point'     => '点击坐标',
+    'Trail'           => '轨迹',
+    'Is_valid'        => '是否有效 0-无效,1-有效',
+    'Invalid_msg'     => '无效原因',
+    'Is_hidden'       => '是否隐藏广告 0-否,1-是',
+    'Create_time'     => '创建时间',
+    'Visit_type'      => '访问方式：view-展示,click-点击',
+    'Visit_date'      => '访问日期 例：20200101',
+    'View_time'       => '广告显示时间',
+    'Device_type'     => '设备类型,默认只支持android和ios',
+    'Referrer'        => '原始来源网址',
+    'Cpu_platform'    => 'cpu类型',
+    'Cpu_core'        => 'cpu核心数',
+    'Gpu_supplier'    => 'gpu类型',
+    'Gpu_renderer'    => 'gpu渲染'
+];

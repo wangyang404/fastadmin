@@ -1,0 +1,64 @@
+<form id="add-form" class="form-horizontal" role="form" data-toggle="validator" method="POST" action="">
+
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Setting_name')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-SETTING_NAME" class="form-control" name="row[SETTING_NAME]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Setting_code')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-SETTING_CODE" class="form-control" name="row[SETTING_CODE]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Setting_value')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-SETTING_VALUE" class="form-control" name="row[SETTING_VALUE]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Parent_code')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-PARENT_CODE" class="form-control" name="row[PARENT_CODE]" type="text" value="root">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Remark')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-REMARK" class="form-control" name="row[REMARK]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Order_num')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-ORDER_NUM" class="form-control" name="row[ORDER_NUM]" type="number">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Create_time')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-CREATE_TIME" class="form-control datetimepicker" data-date-format="YYYY-MM-DD HH:mm:ss" data-use-current="true" name="row[CREATE_TIME]" type="text" value="{:date('Y-m-d H:i:s')}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Update_time')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-UPDATE_TIME" class="form-control datetimepicker" data-date-format="YYYY-MM-DD HH:mm:ss" data-use-current="true" name="row[UPDATE_TIME]" type="text" value="{:date('Y-m-d H:i:s')}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Is_leaf')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-IS_LEAF" class="form-control" name="row[IS_LEAF]" type="text" value="0">
+        </div>
+    </div>
+    <div class="form-group layer-footer">
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="submit" class="btn btn-success btn-embossed disabled">{:__('OK')}</button>
+            <button type="reset" class="btn btn-default btn-embossed">{:__('Reset')}</button>
+        </div>
+    </div>
+</form>

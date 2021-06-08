@@ -1,0 +1,130 @@
+<form id="edit-form" class="form-horizontal" role="form" data-toggle="validator" method="POST" action="">
+
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Stat_date')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-STAT_DATE" class="form-control" name="row[STAT_DATE]" type="text" value="{$row.STAT_DATE}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('User_id')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-USER_ID" data-rule="required" data-source="USER/index" class="form-control selectpage" name="row[USER_ID]" type="text" value="{$row.USER_ID}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Username')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-USERNAME" class="form-control" name="row[USERNAME]" type="text" value="{$row.USERNAME}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Ad_id')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-AD_ID" data-rule="required" data-source="AD/index" class="form-control selectpage" name="row[AD_ID]" type="text" value="{$row.AD_ID}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Ad_name')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-AD_NAME" class="form-control" name="row[AD_NAME]" type="text" value="{$row.AD_NAME}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Plan_id')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-PLAN_ID" data-rule="required" data-source="PLAN/index" class="form-control selectpage" name="row[PLAN_ID]" type="text" value="{$row.PLAN_ID}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Plan_name')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-PLAN_NAME" class="form-control" name="row[PLAN_NAME]" type="text" value="{$row.PLAN_NAME}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Pv_num')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-PV_NUM" class="form-control" name="row[PV_NUM]" type="number" value="{$row.PV_NUM}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Uv_num')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-UV_NUM" class="form-control" name="row[UV_NUM]" type="number" value="{$row.UV_NUM}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Ip_num')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-IP_NUM" class="form-control" name="row[IP_NUM]" type="number" value="{$row.IP_NUM}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Click_num')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-CLICK_NUM" class="form-control" name="row[CLICK_NUM]" type="number" value="{$row.CLICK_NUM}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Click_uv_num')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-CLICK_UV_NUM" class="form-control" name="row[CLICK_UV_NUM]" type="number" value="{$row.CLICK_UV_NUM}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Click_ip_num')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-CLICK_IP_NUM" class="form-control" name="row[CLICK_IP_NUM]" type="number" value="{$row.CLICK_IP_NUM}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Ad_user_spend')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-AD_USER_SPEND" class="form-control" step="0.00000001" name="row[AD_USER_SPEND]" type="number" value="{$row.AD_USER_SPEND}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Site_user_profit')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-SITE_USER_PROFIT" class="form-control" step="0.00000001" name="row[SITE_USER_PROFIT]" type="number" value="{$row.SITE_USER_PROFIT}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Admin_user_profit')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-ADMIN_USER_PROFIT" class="form-control" step="0.00000001" name="row[ADMIN_USER_PROFIT]" type="number" value="{$row.ADMIN_USER_PROFIT}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Customer_user_profit')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-CUSTOMER_USER_PROFIT" class="form-control" step="0.00000001" name="row[CUSTOMER_USER_PROFIT]" type="number" value="{$row.CUSTOMER_USER_PROFIT}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Business_user_profit')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-BUSINESS_USER_PROFIT" class="form-control" step="0.00000001" name="row[BUSINESS_USER_PROFIT]" type="number" value="{$row.BUSINESS_USER_PROFIT}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Create_time')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-CREATE_TIME" class="form-control datetimepicker" data-date-format="YYYY-MM-DD HH:mm:ss" data-use-current="true" name="row[CREATE_TIME]" type="text" value="{$row.CREATE_TIME}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Update_time')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-UPDATE_TIME" class="form-control datetimepicker" data-date-format="YYYY-MM-DD HH:mm:ss" data-use-current="true" name="row[UPDATE_TIME]" type="text" value="{$row.UPDATE_TIME}">
+        </div>
+    </div>
+    <div class="form-group layer-footer">
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="submit" class="btn btn-success btn-embossed disabled">{:__('OK')}</button>
+            <button type="reset" class="btn btn-default btn-embossed">{:__('Reset')}</button>
+        </div>
+    </div>
+</form>

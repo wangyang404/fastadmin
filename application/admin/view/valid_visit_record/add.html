@@ -1,0 +1,190 @@
+<form id="add-form" class="form-horizontal" role="form" data-toggle="validator" method="POST" action="">
+
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Site_user_id')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-SITE_USER_ID" data-rule="required" data-source="SITE/USER/index" class="form-control selectpage" name="row[SITE_USER_ID]" type="text" value="">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Ad_id')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-AD_ID" data-rule="required" data-source="AD/index" class="form-control selectpage" name="row[AD_ID]" type="text" value="">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Plan_id')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-PLAN_ID" data-rule="required" data-source="PLAN/index" class="form-control selectpage" name="row[PLAN_ID]" type="text" value="">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Spend_type')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-SPEND_TYPE" class="form-control" name="row[SPEND_TYPE]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Price')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-PRICE" class="form-control" step="0.00000001" name="row[PRICE]" type="number">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Ad_price')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-AD_PRICE" class="form-control" step="0.00000001" name="row[AD_PRICE]" type="number">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Ip_address')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-IP_ADDRESS" class="form-control" name="row[IP_ADDRESS]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Referer_url')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-REFERER_URL" class="form-control" name="row[REFERER_URL]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Browser_name')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-BROWSER_NAME" class="form-control" name="row[BROWSER_NAME]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Browser_version')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-BROWSER_VERSION" class="form-control" name="row[BROWSER_VERSION]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('User_agent')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <textarea id="c-USER_AGENT" class="form-control " rows="5" name="row[USER_AGENT]" cols="50"></textarea>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Os')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-OS" class="form-control" name="row[OS]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Screen')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-SCREEN" class="form-control" name="row[SCREEN]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Click_point')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-CLICK_POINT" class="form-control" name="row[CLICK_POINT]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Trail')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <textarea id="c-TRAIL" class="form-control " rows="5" name="row[TRAIL]" cols="50"></textarea>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Is_valid')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-IS_VALID" class="form-control" name="row[IS_VALID]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Invalid_msg')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-INVALID_MSG" class="form-control" name="row[INVALID_MSG]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Is_hidden')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-IS_HIDDEN" class="form-control" name="row[IS_HIDDEN]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Create_time')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-CREATE_TIME" class="form-control datetimepicker" data-date-format="YYYY-MM-DD HH:mm:ss" data-use-current="true" name="row[CREATE_TIME]" type="text" value="{:date('Y-m-d H:i:s')}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Visit_type')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-VISIT_TYPE" class="form-control" name="row[VISIT_TYPE]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Visit_date')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-VISIT_DATE" class="form-control" name="row[VISIT_DATE]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('View_time')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-VIEW_TIME" class="form-control datetimepicker" data-date-format="YYYY-MM-DD HH:mm:ss" data-use-current="true" name="row[VIEW_TIME]" type="text" value="{:date('Y-m-d H:i:s')}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Device_type')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-DEVICE_TYPE" class="form-control" name="row[DEVICE_TYPE]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Ip_section')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-IP_SECTION" class="form-control" name="row[IP_SECTION]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Click_time')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-CLICK_TIME" class="form-control datetimepicker" data-date-format="YYYY-MM-DD HH:mm:ss" data-use-current="true" name="row[CLICK_TIME]" type="text" value="{:date('Y-m-d H:i:s')}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Referrer')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-REFERRER" class="form-control" name="row[REFERRER]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Cpu_platform')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-CPU_PLATFORM" class="form-control" name="row[CPU_PLATFORM]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Cpu_core')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-CPU_CORE" class="form-control" name="row[CPU_CORE]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Gpu_supplier')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-GPU_SUPPLIER" class="form-control" name="row[GPU_SUPPLIER]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Gpu_renderer')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-GPU_RENDERER" class="form-control" name="row[GPU_RENDERER]" type="text">
+        </div>
+    </div>
+    <div class="form-group layer-footer">
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="submit" class="btn btn-success btn-embossed disabled">{:__('OK')}</button>
+            <button type="reset" class="btn btn-default btn-embossed">{:__('Reset')}</button>
+        </div>
+    </div>
+</form>

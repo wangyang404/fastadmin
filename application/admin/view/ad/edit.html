@@ -1,0 +1,148 @@
+<form id="edit-form" class="form-horizontal" role="form" data-toggle="validator" method="POST" action="">
+
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Ad_name')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-AD_NAME" class="form-control" name="row[AD_NAME]" type="text" value="{$row.AD_NAME}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Plan_id')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-PLAN_ID" data-rule="required" data-source="PLAN/index" class="form-control selectpage" name="row[PLAN_ID]" type="text" value="{$row.PLAN_ID}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Spend_type')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-SPEND_TYPE" class="form-control" name="row[SPEND_TYPE]" type="text" value="{$row.SPEND_TYPE}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Style_id')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-STYLE_ID" data-rule="required" data-source="STYLE/index" class="form-control selectpage" name="row[STYLE_ID]" type="text" value="{$row.STYLE_ID}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Image_url')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-IMAGE_URL" class="form-control" name="row[IMAGE_URL]" type="text" value="{$row.IMAGE_URL}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Click_url')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-CLICK_URL" class="form-control" name="row[CLICK_URL]" type="text" value="{$row.CLICK_URL}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Ad_user_price')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-AD_USER_PRICE" class="form-control" step="0.00000001" name="row[AD_USER_PRICE]" type="number" value="{$row.AD_USER_PRICE}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Site_user_price')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-SITE_USER_PRICE" class="form-control" step="0.00000001" name="row[SITE_USER_PRICE]" type="number" value="{$row.SITE_USER_PRICE}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Visible_type')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-VISIBLE_TYPE" class="form-control" name="row[VISIBLE_TYPE]" type="text" value="{$row.VISIBLE_TYPE}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Visible_scope')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-VISIBLE_SCOPE" class="form-control" name="row[VISIBLE_SCOPE]" type="text" value="{$row.VISIBLE_SCOPE}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Point_ratio')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-POINT_RATIO" class="form-control" step="0.01" name="row[POINT_RATIO]" type="number" value="{$row.POINT_RATIO}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Ad_size')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-AD_SIZE" class="form-control" name="row[AD_SIZE]" type="text" value="{$row.AD_SIZE}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Valid_time')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-VALID_TIME" class="form-control datetimepicker" data-date-format="YYYY-MM-DD HH:mm:ss" data-use-current="true" name="row[VALID_TIME]" type="text" value="{:$row.VALID_TIME?datetime($row.VALID_TIME):''}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Push_num_limit')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-PUSH_NUM_LIMIT" class="form-control" name="row[PUSH_NUM_LIMIT]" type="number" value="{$row.PUSH_NUM_LIMIT}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Change_num')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-CHANGE_NUM" class="form-control" name="row[CHANGE_NUM]" type="number" value="{$row.CHANGE_NUM}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Change_time')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-CHANGE_TIME" class="form-control datetimepicker" data-date-format="YYYY-MM-DD HH:mm:ss" data-use-current="true" name="row[CHANGE_TIME]" type="text" value="{:$row.CHANGE_TIME?datetime($row.CHANGE_TIME):''}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Hidden_js_ids')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-HIDDEN_JS_IDS" data-rule="required" data-source="HIDDEN/JS/index" data-multiple="true" class="form-control selectpage" name="row[HIDDEN_JS_IDS]" type="text" value="{$row.HIDDEN_JS_IDS}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Weight')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-WEIGHT" class="form-control" name="row[WEIGHT]" type="number" value="{$row.WEIGHT}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Creat_time')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-CREAT_TIME" class="form-control datetimepicker" data-date-format="YYYY-MM-DD HH:mm:ss" data-use-current="true" name="row[CREAT_TIME]" type="text" value="{$row.CREAT_TIME}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Update_time')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-UPDATE_TIME" class="form-control datetimepicker" data-date-format="YYYY-MM-DD HH:mm:ss" data-use-current="true" name="row[UPDATE_TIME]" type="text" value="{$row.UPDATE_TIME}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Is_effective')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-IS_EFFECTIVE" class="form-control" name="row[IS_EFFECTIVE]" type="text" value="{$row.IS_EFFECTIVE}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Order_num')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-ORDER_NUM" class="form-control" name="row[ORDER_NUM]" type="number" value="{$row.ORDER_NUM}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('User_id')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-USER_ID" data-rule="required" data-source="USER/index" class="form-control selectpage" name="row[USER_ID]" type="text" value="{$row.USER_ID}">
+        </div>
+    </div>
+    <div class="form-group layer-footer">
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="submit" class="btn btn-success btn-embossed disabled">{:__('OK')}</button>
+            <button type="reset" class="btn btn-default btn-embossed">{:__('Reset')}</button>
+        </div>
+    </div>
+</form>

@@ -1,0 +1,88 @@
+<form id="add-form" class="form-horizontal" role="form" data-toggle="validator" method="POST" action="">
+
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Plan_name')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-PLAN_NAME" class="form-control" name="row[PLAN_NAME]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('User_id')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-USER_ID" data-rule="required" data-source="USER/index" class="form-control selectpage" name="row[USER_ID]" type="text" value="">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Plan_type')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-PLAN_TYPE" class="form-control" name="row[PLAN_TYPE]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Cost_money')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-COST_MONEY" class="form-control" step="0.00000001" name="row[COST_MONEY]" type="number">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Total_money')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-TOTAL_MONEY" class="form-control" step="0.00000001" name="row[TOTAL_MONEY]" type="number">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Plan_price')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-PLAN_PRICE" class="form-control" step="0.00000001" name="row[PLAN_PRICE]" type="number">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Custom_user_price')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <textarea id="c-CUSTOM_USER_PRICE" class="form-control " rows="5" name="row[CUSTOM_USER_PRICE]" cols="50"></textarea>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Order_num')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-ORDER_NUM" class="form-control" name="row[ORDER_NUM]" type="number">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Is_effective')}:</label>
+        <div class="col-xs-12 col-sm-8">
+                        
+            <select  id="c-IS_EFFECTIVE" class="form-control selectpicker" name="row[IS_EFFECTIVE]">
+                {foreach name="isEffectiveList" item="vo"}
+                    <option value="{$key}" {in name="key" value=""}selected{/in}>{$vo}</option>
+                {/foreach}
+            </select>
+
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Create_time')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-CREATE_TIME" class="form-control datetimepicker" data-date-format="YYYY-MM-DD HH:mm:ss" data-use-current="true" name="row[CREATE_TIME]" type="text" value="{:date('Y-m-d H:i:s')}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Update_time')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-UPDATE_TIME" class="form-control datetimepicker" data-date-format="YYYY-MM-DD HH:mm:ss" data-use-current="true" name="row[UPDATE_TIME]" type="text" value="{:date('Y-m-d H:i:s')}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Limit_money')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-LIMIT_MONEY" class="form-control" step="0.00000001" name="row[LIMIT_MONEY]" type="number">
+        </div>
+    </div>
+    <div class="form-group layer-footer">
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="submit" class="btn btn-success btn-embossed disabled">{:__('OK')}</button>
+            <button type="reset" class="btn btn-default btn-embossed">{:__('Reset')}</button>
+        </div>
+    </div>
+</form>

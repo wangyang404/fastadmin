@@ -1,0 +1,3705 @@
+---------------------------------------------------------------
+[ 2021-06-02T10:47:59+08:00 ] 127.0.0.1 GET localhost/FastAdmin/public/assets/css/bootstrap.css.map
+[运行时间：1.181062s] [吞吐率：0.85req/s] [内存消耗：2,081.10kb] [文件加载：110]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000020s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.042266s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'assets',
+    1 => 'css',
+    2 => 'bootstrap.css.map',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1621487879,1622080678; PHPSESSID=967758ad5244d8b414a8b0473de50d79; language=zh; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1622518163; Admin-Token=78ac1814-28f5-4b1c-bdfc-2c8098e7a118',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-06-02T10:47:59+08:00 ] 127.0.0.1 GET localhost/FastAdmin/public/assets/css/backend.css.map
+[运行时间：1.180698s] [吞吐率：0.85req/s] [内存消耗：2,081.06kb] [文件加载：110]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000079s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.042312s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'assets',
+    1 => 'css',
+    2 => 'backend.css.map',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1621487879,1622080678; PHPSESSID=967758ad5244d8b414a8b0473de50d79; language=zh; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1622518163; Admin-Token=78ac1814-28f5-4b1c-bdfc-2c8098e7a118',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-06-02T10:47:59+08:00 ] 127.0.0.1 GET localhost/FastAdmin/public/assets/css/fastadmin.css.map
+[运行时间：0.030961s] [吞吐率：32.30req/s] [内存消耗：2,081.69kb] [文件加载：110]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000088s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001661s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'assets',
+    1 => 'css',
+    2 => 'fastadmin.css.map',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1621487879,1622080678; PHPSESSID=967758ad5244d8b414a8b0473de50d79; language=zh; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1622518163; Admin-Token=78ac1814-28f5-4b1c-bdfc-2c8098e7a118',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-06-02T14:33:43+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：1.644328s] [吞吐率：0.61req/s] [内存消耗：3,487.87kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000021s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.034536s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '42',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '574de3e9-46ee-49be-b32c-fb42a7e272d5',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.021023s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.059792s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.057026s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.057645s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.048524s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.068279s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.029068s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `stat_ad_day` [ RunTime:0.041527s ]
+[ sql ] [ SQL ] SELECT `STAT_DATE`,`PV_NUM`,`SITE_USER_PROFIT` FROM `stat_ad_day` WHERE  `CREATE_TIME` BETWEEN '1970-01-01 08:00:00' AND '1970-01-01 08:00:00'  AND `USER_ID` = 2 [ RunTime:0.038031s ]
+---------------------------------------------------------------
+[ 2021-06-02T14:34:07+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.373057s] [吞吐率：2.68req/s] [内存消耗：3,488.05kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000897s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '42',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '153f398f-9fa6-4214-be21-b91926973dc8',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001006s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.047914s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.040446s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.034138s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.037038s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.061725s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.047123s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `stat_ad_day` [ RunTime:0.033136s ]
+[ sql ] [ SQL ] SELECT `STAT_DATE`,`PV_NUM`,`SITE_USER_PROFIT` FROM `stat_ad_day` WHERE  `CREATE_TIME` BETWEEN '1970-01-01 08:00:00' AND '1970-01-01 08:00:00'  AND `USER_ID` = 2 [ RunTime:0.040851s ]
+---------------------------------------------------------------
+[ 2021-06-02T14:34:47+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.348597s] [吞吐率：2.87req/s] [内存消耗：3,485.82kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000028s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001105s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '42',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => 'ae886ee4-1578-4d46-9b36-0a87b70633a8',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001082s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.052369s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.030380s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.041329s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.048669s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.042195s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.033714s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `stat_ad_day` [ RunTime:0.028600s ]
+[ sql ] [ SQL ] SELECT `STAT_DATE`,`PV_NUM`,`SITE_USER_PROFIT` FROM `stat_ad_day` WHERE  `USER_ID` = 2 [ RunTime:0.038601s ]
+---------------------------------------------------------------
+[ 2021-06-02T14:34:58+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.365145s] [吞吐率：2.74req/s] [内存消耗：3,487.87kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001028s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '42',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '45805b27-4205-4206-8cc4-346addcf75d2',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001173s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.069709s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.041284s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.033776s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.042720s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.032981s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.040389s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `stat_ad_day` [ RunTime:0.032498s ]
+[ sql ] [ SQL ] SELECT `STAT_DATE`,`PV_NUM`,`SITE_USER_PROFIT` FROM `stat_ad_day` WHERE  `CREATE_TIME` BETWEEN '1970-01-01 08:00:00' AND '1970-01-01 08:00:00'  AND `USER_ID` = 2 [ RunTime:0.039715s ]
+---------------------------------------------------------------
+[ 2021-06-02T14:37:38+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.339500s] [吞吐率：2.95req/s] [内存消耗：3,487.58kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001369s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '4e5b9605-eced-4548-ac54-cd9b3116049d',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210531',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001332s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.055851s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.033949s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.031889s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.032613s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.033133s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.031638s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `stat_ad_day` [ RunTime:0.032144s ]
+[ sql ] [ SQL ] SELECT `STAT_DATE`,`PV_NUM`,`SITE_USER_PROFIT` FROM `stat_ad_day` WHERE  `STAT_DATE` BETWEEN '1622390400' AND '1622390400'  AND `USER_ID` = 2 [ RunTime:0.044131s ]
+---------------------------------------------------------------
+[ 2021-06-02T14:37:43+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.347513s] [吞吐率：2.88req/s] [内存消耗：3,488.24kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000927s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => 'c1fbb477-8bfa-4bd6-ac95-c60673061ce9',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210532',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001118s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.062010s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.040755s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.040846s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.035693s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.038331s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.028117s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `stat_ad_day` [ RunTime:0.034607s ]
+[ sql ] [ SQL ] SELECT `STAT_DATE`,`PV_NUM`,`SITE_USER_PROFIT` FROM `stat_ad_day` WHERE  `STAT_DATE` BETWEEN '1622390400' AND '20210532'  AND `USER_ID` = 2 [ RunTime:0.030735s ]
+---------------------------------------------------------------
+[ 2021-06-02T14:37:58+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.324957s] [吞吐率：3.08req/s] [内存消耗：3,488.24kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000026s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001038s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => 'e534db66-6c32-465f-9480-3aa5bd364115',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210532',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001139s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.054755s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.029952s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.029630s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.036690s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.042572s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.029833s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `stat_ad_day` [ RunTime:0.039692s ]
+[ sql ] [ SQL ] SELECT `STAT_DATE`,`PV_NUM`,`SITE_USER_PROFIT` FROM `stat_ad_day` WHERE  `STAT_DATE` BETWEEN '1622390400' AND '20210532'  AND `USER_ID` = 2 [ RunTime:0.029843s ]
+---------------------------------------------------------------
+[ 2021-06-02T14:40:09+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.350120s] [吞吐率：2.86req/s] [内存消耗：3,487.58kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001363s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => 'e5b84414-0c94-4efa-b788-35aca7f68044',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210602',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001372s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.060413s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.041837s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.038288s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.050623s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.028247s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.026768s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `stat_ad_day` [ RunTime:0.028222s ]
+[ sql ] [ SQL ] SELECT `STAT_DATE`,`PV_NUM`,`SITE_USER_PROFIT` FROM `stat_ad_day` WHERE  `STAT_DATE` BETWEEN '1622390400' AND '1622563200'  AND `USER_ID` = 2 [ RunTime:0.034330s ]
+---------------------------------------------------------------
+[ 2021-06-02T14:40:22+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.385616s] [吞吐率：2.59req/s] [内存消耗：3,487.58kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000917s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => 'bc124ef3-eb27-4bf2-a459-793629b99bdf',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210602',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001011s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.097803s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.037590s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.036219s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.036872s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.039461s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.036471s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `stat_ad_day` [ RunTime:0.028727s ]
+[ sql ] [ SQL ] SELECT `STAT_DATE`,`PV_NUM`,`SITE_USER_PROFIT` FROM `stat_ad_day` WHERE  `STAT_DATE` BETWEEN '1622390400' AND '1622563200'  AND `USER_ID` = 2 [ RunTime:0.041869s ]
+---------------------------------------------------------------
+[ 2021-06-02T14:40:41+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.343560s] [吞吐率：2.91req/s] [内存消耗：3,487.58kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000866s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '90451a32-2957-429b-8f2d-3b7a1269f246',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210531',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001241s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.051914s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.046185s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.036685s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.030226s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.036127s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.045020s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `stat_ad_day` [ RunTime:0.035795s ]
+[ sql ] [ SQL ] SELECT `STAT_DATE`,`PV_NUM`,`SITE_USER_PROFIT` FROM `stat_ad_day` WHERE  `STAT_DATE` BETWEEN '1622390400' AND '1622390400'  AND `USER_ID` = 2 [ RunTime:0.030743s ]
+---------------------------------------------------------------
+[ 2021-06-02T14:40:43+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.346642s] [吞吐率：2.88req/s] [内存消耗：3,487.58kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000911s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '9bc7c58e-54ab-4d1d-a0b4-29f2323de629',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210531',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001233s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.057845s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.030577s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.036415s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.035292s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.040332s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.043435s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `stat_ad_day` [ RunTime:0.037344s ]
+[ sql ] [ SQL ] SELECT `STAT_DATE`,`PV_NUM`,`SITE_USER_PROFIT` FROM `stat_ad_day` WHERE  `STAT_DATE` BETWEEN '1622390400' AND '1622390400'  AND `USER_ID` = 2 [ RunTime:0.033785s ]
+---------------------------------------------------------------
+[ 2021-06-02T14:41:26+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.408427s] [吞吐率：2.45req/s] [内存消耗：3,487.58kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001221s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => 'c2db38e5-3fd6-4318-8876-405ae17b6943',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210531',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001083s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.065994s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.078757s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.041959s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.034273s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.038098s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.038851s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `stat_ad_day` [ RunTime:0.037030s ]
+[ sql ] [ SQL ] SELECT `STAT_DATE`,`PV_NUM`,`SITE_USER_PROFIT` FROM `stat_ad_day` WHERE  `STAT_DATE` BETWEEN '1622390400' AND '1622390400'  AND `USER_ID` = 2 [ RunTime:0.040794s ]
+---------------------------------------------------------------
+[ 2021-06-02T14:42:00+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.311265s] [吞吐率：3.21req/s] [内存消耗：3,488.05kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000905s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => 'bbc9764b-fbf2-47d1-9dc8-987e8488649a',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210531',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001397s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.046493s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.031913s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.037655s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.032226s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.035835s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.031225s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `stat_ad_day` [ RunTime:0.030937s ]
+[ sql ] [ SQL ] SELECT `STAT_DATE`,`PV_NUM`,`SITE_USER_PROFIT` FROM `stat_ad_day` WHERE  `STAT_DATE` BETWEEN '1622390400' AND '1622390400'  AND `USER_ID` = 2 [ RunTime:0.031341s ]
+---------------------------------------------------------------
+[ 2021-06-02T14:42:54+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.284148s] [吞吐率：3.52req/s] [内存消耗：3,487.97kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000026s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001622s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => 'cf2055d0-b9db-415b-8fb4-8f94d933cee6',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210531',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001262s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.041163s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.029641s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.030996s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.028547s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.029227s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.027443s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `stat_ad_day` [ RunTime:0.027958s ]
+[ sql ] [ SQL ] SELECT `STAT_DATE`,`PV_NUM`,`SITE_USER_PROFIT` FROM `stat_ad_day` WHERE  `STAT_DATE` BETWEEN '1622390400' AND '1622390400'  AND `USER_ID` = 2 [ RunTime:0.027599s ]
+---------------------------------------------------------------
+[ 2021-06-02T14:43:05+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.299536s] [吞吐率：3.34req/s] [内存消耗：3,488.01kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000887s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '99f3fa23-dc78-4241-ad09-8198d38da01c',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210531',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000989s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.045993s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.032984s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.031343s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.032616s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.032156s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.031382s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `stat_ad_day` [ RunTime:0.031012s ]
+[ sql ] [ SQL ] SELECT `STAT_DATE`,`PV_NUM`,`SITE_USER_PROFIT` FROM `stat_ad_day` WHERE  `STAT_DATE` BETWEEN '1622390400' AND '1622390400'  AND `USER_ID` = 2 [ RunTime:0.031168s ]
+---------------------------------------------------------------
+[ 2021-06-02T14:47:03+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.476225s] [吞吐率：2.10req/s] [内存消耗：3,694.07kb] [文件加载：131]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001843s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => 'a5731aee-da8a-4a77-92f9-f6e2860e4433',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210531',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001644s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.074273s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.041607s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.035660s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.050913s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.044697s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.049605s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `stat_ad_day` [ RunTime:0.037751s ]
+[ error ] [0]不支持的数据表达式:STAT_DATE >=[D:\phpstudy_pro\WWW\FastAdmin\thinkphp\library\think\db\builder\Mysql.php:113]
+---------------------------------------------------------------
+[ 2021-06-02T14:49:24+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.299017s] [吞吐率：3.34req/s] [内存消耗：3,488.59kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000027s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001848s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '8779832b-6622-4a0c-8438-7aa698b53ade',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210531',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001305s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.050136s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.029529s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.030643s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.030451s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.029650s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.028855s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `stat_ad_day` [ RunTime:0.029150s ]
+[ sql ] [ SQL ] SELECT `STAT_DATE`,`PV_NUM`,`SITE_USER_PROFIT` FROM `stat_ad_day` WHERE  `USER_ID` = 2  AND `STAT_DATE` BETWEEN '20210531' AND '20210531' [ RunTime:0.028675s ]
+---------------------------------------------------------------
+[ 2021-06-02T14:57:17+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.407805s] [吞吐率：2.45req/s] [内存消耗：3,490.23kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000029s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001684s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => 'dfb453ae-a9a1-4ac0-a544-4fdb9bc47412',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210531',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001355s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.071389s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.033705s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.035116s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.031585s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.034114s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.045360s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `stat_ad_day` [ RunTime:0.048337s ]
+[ sql ] [ SQL ] SELECT `STAT_DATE`,`AD_NAME`,`PV_NUM`,`SITE_USER_PROFIT` FROM `stat_ad_day` WHERE  `USER_ID` = 2  AND `STAT_DATE` BETWEEN '20210531' AND '20210531' [ RunTime:0.028057s ]
+[ sql ] [ SQL ] select USER_ID,  SUM(PV_NUM),SUM(SITE_USER_PROFIT)
+                from stat_ad_day
+                group by STAT_DATE [ RunTime:0.038325s ]
+---------------------------------------------------------------
+[ 2021-06-02T14:57:39+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.347879s] [吞吐率：2.87req/s] [内存消耗：3,490.23kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000917s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => 'f2e3e8e1-10c3-4277-b6d2-22055efebd26',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210531',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001226s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.046704s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.034679s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.031637s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.033425s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.040524s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.031200s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `stat_ad_day` [ RunTime:0.032105s ]
+[ sql ] [ SQL ] SELECT `STAT_DATE`,`AD_NAME`,`PV_NUM`,`SITE_USER_PROFIT` FROM `stat_ad_day` WHERE  `USER_ID` = 2  AND `STAT_DATE` BETWEEN '20210531' AND '20210531' [ RunTime:0.033469s ]
+[ sql ] [ SQL ] select USER_ID,  SUM(PV_NUM),SUM(SITE_USER_PROFIT)
+                from stat_ad_day
+                group by STAT_DATE [ RunTime:0.030843s ]
+---------------------------------------------------------------
+[ 2021-06-02T14:57:49+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.363154s] [吞吐率：2.75req/s] [内存消耗：3,491.88kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000868s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '9092463c-108f-4c5e-a596-ac7c7ccb53ed',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210531',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001001s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.071140s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.036534s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.030255s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.030200s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.032565s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.029361s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `stat_ad_day` [ RunTime:0.030928s ]
+[ sql ] [ SQL ] SELECT `STAT_DATE`,`AD_NAME`,`PV_NUM`,`SITE_USER_PROFIT` FROM `stat_ad_day` WHERE  `USER_ID` = 2  AND `STAT_DATE` BETWEEN '20210531' AND '20210531' [ RunTime:0.042349s ]
+[ sql ] [ SQL ] select USER_ID,STAT_DATE,  SUM(PV_NUM),SUM(SITE_USER_PROFIT)
+                from stat_ad_day
+                group by STAT_DATE [ RunTime:0.029618s ]
+---------------------------------------------------------------
+[ 2021-06-02T14:58:40+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.256028s] [吞吐率：3.91req/s] [内存消耗：3,690.49kb] [文件加载：133]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000010s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001085s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '5c9a66c3-f564-434d-8d8e-eca63086dbec',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210531',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001206s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.039708s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.026887s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.027226s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.031103s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.026677s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.028023s ]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where USER_ID = 2' at line 4[D:\phpstudy_pro\WWW\FastAdmin\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2021-06-02T14:58:59+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.277232s] [吞吐率：3.61req/s] [内存消耗：3,479.16kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000947s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '594c88f9-d0b3-4331-8402-6603acfdd966',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210531',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001303s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.044900s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.030190s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.028196s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.029453s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.048413s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.032669s ]
+[ sql ] [ SQL ] select USER_ID,STAT_DATE,  SUM(PV_NUM),SUM(SITE_USER_PROFIT)
+                from stat_ad_day
+                group by STAT_DATE 
+                HAVING USER_ID = 2 [ RunTime:0.030486s ]
+---------------------------------------------------------------
+[ 2021-06-02T15:00:23+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.245155s] [吞吐率：4.08req/s] [内存消耗：3,690.87kb] [文件加载：133]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001319s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => 'ac2e3d7b-82a2-4db5-9181-664229d905b8',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210531',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001402s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.041262s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.028203s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.027683s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.028169s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.029248s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.028039s ]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'STAT_DATE >= 20210531 AND STAT_DATE <= 20210531' at line 4[D:\phpstudy_pro\WWW\FastAdmin\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2021-06-02T15:00:47+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.040264s] [吞吐率：24.84req/s] [内存消耗：2,275.35kb] [文件加载：116]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000908s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '4bf0bcd0-af42-4466-bfb1-27852f541931',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210531',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001155s ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]语法解析错误: syntax error, unexpected '/'[D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php:126]
+---------------------------------------------------------------
+[ 2021-06-02T15:00:53+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.026521s] [吞吐率：37.71req/s] [内存消耗：2,275.41kb] [文件加载：116]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000926s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '24cd234b-e645-42ea-b813-def9886ef4f2',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210531',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001006s ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]语法解析错误: syntax error, unexpected '每日统计' (T_STRING)[D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php:130]
+---------------------------------------------------------------
+[ 2021-06-02T15:01:09+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.254222s] [吞吐率：3.93req/s] [内存消耗：3,690.51kb] [文件加载：133]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000871s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '4b5c5c9b-9a3c-4ef5-a5b6-813a2b54c407',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210531',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001028s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.046430s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.031305s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.032900s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.029958s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.032956s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.029419s ]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'STAT_DATE >= 20210531' at line 4[D:\phpstudy_pro\WWW\FastAdmin\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2021-06-02T15:02:50+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.295417s] [吞吐率：3.39req/s] [内存消耗：3,478.62kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000021s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001874s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '3b7e9ae1-4e30-4a20-8778-ec70dce9666e',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210531',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002298s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.056078s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.030811s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.031177s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.029984s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.044311s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.027953s ]
+[ sql ] [ SQL ] select USER_ID,STAT_DATE,  SUM(PV_NUM),SUM(SITE_USER_PROFIT)
+                from stat_ad_day
+                where USER_ID = 2 [ RunTime:0.027913s ]
+---------------------------------------------------------------
+[ 2021-06-02T15:04:34+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.284505s] [吞吐率：3.51req/s] [内存消耗：3,690.41kb] [文件加载：133]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000021s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001285s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => 'ee8b2848-b1ff-48c9-9f76-f523c1a4ab0a',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210531',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001712s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.056079s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.038919s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.030431s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.031089s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.037132s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.031218s ]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'by STAT_DATE' at line 3[D:\phpstudy_pro\WWW\FastAdmin\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2021-06-02T15:30:47+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/getAds
+[运行时间：0.374102s] [吞吐率：2.67req/s] [内存消耗：3,687.78kb] [文件加载：132]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001542s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'getAds',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '4ad64c6c-f6ca-46bb-a62f-d7038578178d',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210531',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001508s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->getAds[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.057501s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.051056s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.047332s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.040233s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.067849s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.045457s ]
+[ error ] [8]Array to string conversion[D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php:266]
+---------------------------------------------------------------
+[ 2021-06-02T15:30:53+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/getAds
+[运行时间：0.255917s] [吞吐率：3.91req/s] [内存消耗：3,687.38kb] [文件加载：132]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000943s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'getAds',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '42',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => 'f96c5525-07e7-427b-8393-be2a459af8d8',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001065s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->getAds[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.064718s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.033510s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.030637s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.030688s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.030694s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.029201s ]
+[ error ] [8]Array to string conversion[D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php:266]
+---------------------------------------------------------------
+[ 2021-06-02T15:31:48+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/getAds
+[运行时间：0.329355s] [吞吐率：3.04req/s] [内存消耗：3,687.38kb] [文件加载：132]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001132s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'getAds',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '42',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => 'afce6a31-da3e-4975-bc44-4c8188a50962',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001279s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->getAds[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.076861s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.044243s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.038876s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.061643s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.038445s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.033946s ]
+[ error ] [8]Array to string conversion[D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php:266]
+---------------------------------------------------------------
+[ 2021-06-02T15:32:40+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/getAds
+[运行时间：0.265955s] [吞吐率：3.76req/s] [内存消耗：3,491.45kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000933s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'getAds',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '42',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => 'fa1c5751-088f-45b8-a179-c3c88a0e32ca',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001316s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->getAds[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.044766s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.030872s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.029361s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.033143s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.031109s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.033699s ]
+[ sql ] [ SQL ] SELECT a.* FROM ad a
+                LEFT JOIN  plan p ON p.ID = a.PLAN_ID WHERE p.USER_ID = 2 [ RunTime:0.029830s ]
+---------------------------------------------------------------
+[ 2021-06-02T15:32:59+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/getAds
+[运行时间：1.289978s] [吞吐率：0.78req/s] [内存消耗：3,495.24kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001362s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'getAds',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '42',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '66e9ce90-6464-475f-bb09-3d4c327ce62d',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001648s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->getAds[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:1.055230s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.029696s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.030232s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.042894s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.028964s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.030264s ]
+[ sql ] [ SQL ] SELECT a.* FROM ad a
+                LEFT JOIN  plan p ON p.ID = a.PLAN_ID WHERE p.USER_ID = 2 [ RunTime:0.030496s ]
+---------------------------------------------------------------
+[ 2021-06-02T15:33:28+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/getAds
+[运行时间：0.335503s] [吞吐率：2.98req/s] [内存消耗：3,478.16kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000962s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'getAds',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '42',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '814366d7-183d-4952-9bda-ef1ee2418ec8',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001021s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->getAds[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.059099s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.045222s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.036872s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.058435s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.036528s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.036440s ]
+[ sql ] [ SQL ] SELECT a.ID,a.AD_NAME FROM ad a
+                LEFT JOIN  plan p ON p.ID = a.PLAN_ID WHERE p.USER_ID = 2 [ RunTime:0.029601s ]
+---------------------------------------------------------------
+[ 2021-06-02T15:50:45+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.333230s] [吞吐率：3.00req/s] [内存消耗：3,692.59kb] [文件加载：133]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001474s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '42',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '57d897a5-26e5-4f79-bf38-858445a4b132',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001473s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.054559s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.086203s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.031455s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.033049s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.032640s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.032043s ]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'by STAT_DATE' at line 3[D:\phpstudy_pro\WWW\FastAdmin\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2021-06-02T15:51:02+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.305476s] [吞吐率：3.27req/s] [内存消耗：3,692.55kb] [文件加载：133]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001015s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '42',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '1b0b6281-517a-4bd4-8b72-3d6e3637ffda',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001138s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.050520s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.033044s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.037326s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.037341s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.044083s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.038786s ]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'by STAT_DATE' at line 3[D:\phpstudy_pro\WWW\FastAdmin\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2021-06-02T15:51:06+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.402165s] [吞吐率：2.49req/s] [内存消耗：3,692.55kb] [文件加载：133]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000870s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '42',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '930a963b-eccf-4dbd-a9de-49bc219cc640',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001013s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.052946s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.037207s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.029347s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.034248s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.084881s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.064370s ]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'by STAT_DATE' at line 3[D:\phpstudy_pro\WWW\FastAdmin\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2021-06-02T15:51:23+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.288161s] [吞吐率：3.47req/s] [内存消耗：3,692.49kb] [文件加载：133]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000031s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001260s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '42',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => 'ab68e0de-0b81-4af7-bb51-f0ed6bc3ee97',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001035s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.047355s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.046071s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.035078s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.038318s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.036138s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.034028s ]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'by STAT_DATE' at line 3[D:\phpstudy_pro\WWW\FastAdmin\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2021-06-02T15:51:24+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.291566s] [吞吐率：3.43req/s] [内存消耗：3,692.49kb] [文件加载：133]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000886s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '42',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '6dbb98ac-d281-4da3-8fe9-aa6de440661f',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001194s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.087679s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.030743s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.029391s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.031312s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.030688s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.030836s ]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'by STAT_DATE' at line 3[D:\phpstudy_pro\WWW\FastAdmin\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2021-06-02T15:51:25+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.242173s] [吞吐率：4.13req/s] [内存消耗：3,692.49kb] [文件加载：133]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001003s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '42',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => 'b744ad8b-360d-4df9-8d2a-1a54870bfaa6',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000981s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.042512s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.029095s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.029556s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.029459s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.029223s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.032647s ]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'by STAT_DATE' at line 3[D:\phpstudy_pro\WWW\FastAdmin\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2021-06-02T15:51:55+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.255056s] [吞吐率：3.92req/s] [内存消耗：3,692.77kb] [文件加载：133]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001202s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '0b8a9c81-f194-4f4d-bc25-ed08de398e78',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'AD_ID' => '0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001220s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.051961s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.030150s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.037293s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.030468s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.027628s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.026560s ]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'by STAT_DATE' at line 3[D:\phpstudy_pro\WWW\FastAdmin\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2021-06-02T15:51:56+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.372932s] [吞吐率：2.68req/s] [内存消耗：3,692.77kb] [文件加载：133]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000912s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => 'fc15d003-f45f-4b0b-b394-004dee282739',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'AD_ID' => '0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001039s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.061435s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.057585s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.065849s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.059029s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.037644s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.039299s ]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'by STAT_DATE' at line 3[D:\phpstudy_pro\WWW\FastAdmin\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2021-06-02T15:52:03+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.365264s] [吞吐率：2.74req/s] [内存消耗：3,692.77kb] [文件加载：133]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000969s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '284b43d6-3d91-4c1d-bc32-3f5b3802cc30',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'AD_ID' => '0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001296s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.075187s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.040419s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.036897s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.046929s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.056994s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.051887s ]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'by STAT_DATE' at line 3[D:\phpstudy_pro\WWW\FastAdmin\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2021-06-02T15:52:17+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.251395s] [吞吐率：3.98req/s] [内存消耗：3,443.27kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000956s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '26ea8207-c40f-4f87-8ce7-8f9e96864834',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'AD_ID' => '0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001071s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.062089s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.041727s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.028423s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.049200s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.037632s ]
+---------------------------------------------------------------
+[ 2021-06-02T15:52:30+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.253100s] [吞吐率：3.95req/s] [内存消耗：3,418.38kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000920s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '640cff7f-e587-4b75-917b-5f9d9181e80c',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'AD_ID' => '0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001338s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.048358s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.033636s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.032514s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.039195s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.034814s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.032562s ]
+---------------------------------------------------------------
+[ 2021-06-02T15:52:54+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.256811s] [吞吐率：3.89req/s] [内存消耗：3,692.77kb] [文件加载：133]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001675s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '1d7adc7c-3ae9-4943-804d-df97e8694b43',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'AD_ID' => '0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001340s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.045124s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.029540s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.030993s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.029272s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.030074s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.030582s ]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'by STAT_DATE' at line 3[D:\phpstudy_pro\WWW\FastAdmin\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2021-06-02T15:53:13+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.350229s] [吞吐率：2.86req/s] [内存消耗：3,418.38kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000902s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '76f51697-8c43-4608-a6c1-2f9dfadb69a5',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'AD_ID' => '0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001092s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.078030s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.040509s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.048042s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.047988s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.065090s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.040362s ]
+---------------------------------------------------------------
+[ 2021-06-02T15:53:27+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.312238s] [吞吐率：3.20req/s] [内存消耗：3,418.38kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001179s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '723cac1a-061c-4f50-a86c-c7b49eca9803',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'AD_ID' => '0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001032s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.058137s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.045566s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.035744s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.040046s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.054973s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.046800s ]
+---------------------------------------------------------------
+[ 2021-06-02T15:53:39+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.297030s] [吞吐率：3.37req/s] [内存消耗：3,692.77kb] [文件加载：133]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000036s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001066s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '338287fd-5f1c-41f9-97c0-1e986ce8367b',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'AD_ID' => '0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001000s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.089118s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.029917s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.030079s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.030648s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.032153s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.030095s ]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'by STAT_DATE' at line 3[D:\phpstudy_pro\WWW\FastAdmin\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2021-06-02T15:54:37+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.216007s] [吞吐率：4.63req/s] [内存消耗：3,418.38kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001358s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '82413a93-a960-4f45-bee1-5dce00657172',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'AD_ID' => '0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001086s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.042204s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.026958s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.028190s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.029638s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.030153s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.026011s ]
+---------------------------------------------------------------
+[ 2021-06-02T15:55:38+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.333893s] [吞吐率：2.99req/s] [内存消耗：3,418.38kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001397s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => 'b6e1f3d6-f202-421c-95cd-56d0da6567be',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'AD_ID' => '0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001319s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.069901s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.036525s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.051109s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.044790s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.049571s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.042475s ]
+---------------------------------------------------------------
+[ 2021-06-02T15:55:46+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.402238s] [吞吐率：2.49req/s] [内存消耗：3,417.94kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000962s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '42',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '827e3b7a-0b28-44eb-9ac7-ea4646960d0e',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001364s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.090246s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.072125s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.046244s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.087026s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.038765s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.035309s ]
+---------------------------------------------------------------
+[ 2021-06-02T15:55:48+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.291448s] [吞吐率：3.43req/s] [内存消耗：3,417.94kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001218s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '42',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '87790205-6008-4303-8716-4a6ccdd26ed2',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001025s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.058880s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.031205s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.035715s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.040468s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.057268s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.037435s ]
+---------------------------------------------------------------
+[ 2021-06-02T15:56:28+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.321878s] [吞吐率：3.11req/s] [内存消耗：3,418.38kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000936s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => 'f91d826c-efeb-4983-b345-fbc700adc512',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'AD_ID' => '0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001043s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.100550s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.039428s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.045010s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.033831s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.038724s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.033999s ]
+---------------------------------------------------------------
+[ 2021-06-02T15:56:30+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.205646s] [吞吐率：4.86req/s] [内存消耗：3,418.38kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000917s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '9a09f1e3-0ade-4311-a889-a5ea5a7f0f0b',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'AD_ID' => '0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000928s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.040298s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.027864s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.026696s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.027344s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.026864s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.027236s ]
+---------------------------------------------------------------
+[ 2021-06-02T15:56:44+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.258722s] [吞吐率：3.87req/s] [内存消耗：3,418.38kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001063s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '019743da-20e8-4004-8f56-e90bd97dae54',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'AD_ID' => '0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001137s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.045044s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.031154s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.031992s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.055552s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.030814s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.033555s ]
+---------------------------------------------------------------
+[ 2021-06-02T15:56:48+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.367352s] [吞吐率：2.72req/s] [内存消耗：3,418.38kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001098s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '0105553a-9363-47e7-93d6-6eed3efad87c',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'AD_ID' => '1',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001040s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.106856s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.037133s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.035702s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.046515s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.033458s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.077382s ]
+---------------------------------------------------------------
+[ 2021-06-02T15:56:52+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.392465s] [吞吐率：2.55req/s] [内存消耗：3,418.38kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001302s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '7d2633f7-ea78-42e7-8e81-2d6cf8ab1a11',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'AD_ID' => '0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001253s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.174076s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.038864s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.028613s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.045998s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.031013s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.044071s ]
+---------------------------------------------------------------
+[ 2021-06-02T15:56:55+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.224786s] [吞吐率：4.45req/s] [内存消耗：3,418.38kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000939s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '314f6d8e-d353-4abb-978e-63685e051336',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'AD_ID' => '3',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001091s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.045288s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.028908s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.032162s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.030187s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.029848s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.028699s ]
+---------------------------------------------------------------
+[ 2021-06-02T15:56:58+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.330964s] [吞吐率：3.02req/s] [内存消耗：3,418.38kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000991s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '56be3461-6998-48fa-8903-cdf1073afa80',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'AD_ID' => '0',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001291s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.057415s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.037050s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.039158s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.067409s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.042749s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.056222s ]
+---------------------------------------------------------------
+[ 2021-06-02T15:58:21+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.282400s] [吞吐率：3.54req/s] [内存消耗：3,692.77kb] [文件加载：133]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001342s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => 'd30b255f-25f8-4f09-92fd-cc5f7eafeec1',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'AD_ID' => '1',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001554s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.043916s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.032005s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.030690s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.031123s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.037206s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.045974s ]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'by STAT_DATE' at line 3[D:\phpstudy_pro\WWW\FastAdmin\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2021-06-02T15:58:28+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.293117s] [吞吐率：3.41req/s] [内存消耗：3,418.13kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000988s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '0c24cea3-55d4-40e7-bfad-b5f6e1cbb94c',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'AD_ID' => '1',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001095s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.053327s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.040731s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.037809s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.028403s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.042250s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.059463s ]
+---------------------------------------------------------------
+[ 2021-06-02T15:58:32+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.424282s] [吞吐率：2.36req/s] [内存消耗：3,489.73kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001181s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '3932983a-fadb-4b28-a2cc-f9f12da083fe',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'AD_ID' => '1',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001010s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.051121s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.045583s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.049146s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.040582s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.045779s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.079318s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `stat_ad_day` [ RunTime:0.043261s ]
+[ sql ] [ SQL ] SELECT `STAT_DATE`,`AD_NAME`,`PV_NUM`,`SITE_USER_PROFIT` FROM `stat_ad_day` WHERE  `USER_ID` = 2  AND `AD_ID` = 1 [ RunTime:0.036544s ]
+---------------------------------------------------------------
+[ 2021-06-02T15:59:37+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.428408s] [吞吐率：2.33req/s] [内存消耗：3,492.16kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000981s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '86',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '868c8749-0189-4900-a5d8-b71b83222cb2',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210531',
+  'AD_ID' => '1',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001063s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.096712s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.056743s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.038449s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.046204s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.039145s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.048231s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `stat_ad_day` [ RunTime:0.037110s ]
+[ sql ] [ SQL ] SELECT `STAT_DATE`,`AD_NAME`,`PV_NUM`,`SITE_USER_PROFIT` FROM `stat_ad_day` WHERE  `USER_ID` = 2  AND `AD_ID` = 1  AND `STAT_DATE` BETWEEN '20210531' AND '20210531' [ RunTime:0.034512s ]
+---------------------------------------------------------------
+[ 2021-06-02T16:00:31+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.390617s] [吞吐率：2.56req/s] [内存消耗：3,492.40kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001444s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '87',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '486671c6-77f8-4ea7-9a9d-16d57b8e74d2',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210531',
+  'AD_ID' => '-1',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001248s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.046105s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.031461s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.031356s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.040927s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.037594s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.038016s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `stat_ad_day` [ RunTime:0.058186s ]
+[ sql ] [ SQL ] SELECT `STAT_DATE`,`AD_NAME`,`PV_NUM`,`SITE_USER_PROFIT` FROM `stat_ad_day` WHERE  `USER_ID` = 2  AND `AD_ID` = -1  AND `STAT_DATE` BETWEEN '20210531' AND '20210531' [ RunTime:0.065328s ]
+---------------------------------------------------------------
+[ 2021-06-02T16:01:39+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.236184s] [吞吐率：4.23req/s] [内存消耗：3,485.11kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000948s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => 'a115caed-4eb0-4c92-a874-152f9df8d61e',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210531',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001000s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.041405s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.025796s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.027707s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.026731s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.026450s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.027625s ]
+[ sql ] [ SQL ] SELECT a.STAT_DATE, SUM(a.PV_NUM),SUM(a.UV_NUM),SUM(a.IP_NUM),SUM(a.CLICK_NUM),SUM(a.CLICK_UV_NUM),SUM(a.CLICK_IP_NUM),SUM(a.SITE_USER_PROFIT)
+                FROM (SELECT * FROM stat_ad_day WHERE user_id = 2 AND STAT_DATE BETWEEN 20210531 AND 20210531) AS a 
+                GROUP BY a.STAT_DATE [ RunTime:0.028392s ]
+---------------------------------------------------------------
+[ 2021-06-02T16:01:46+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.388437s] [吞吐率：2.57req/s] [内存消耗：3,492.34kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001117s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '87',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '0b55881b-f30b-4ff7-8b7f-54286d262994',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210531',
+  'AD_ID' => '-1',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001037s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.050392s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.036266s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.039611s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.052667s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.056311s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.040757s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `stat_ad_day` [ RunTime:0.044076s ]
+[ sql ] [ SQL ] SELECT `STAT_DATE`,`AD_NAME`,`PV_NUM`,`SITE_USER_PROFIT` FROM `stat_ad_day` WHERE  `USER_ID` = 2  AND `AD_ID` = -1  AND `STAT_DATE` BETWEEN '20210531' AND '20210531' [ RunTime:0.035267s ]
+---------------------------------------------------------------
+[ 2021-06-02T16:01:53+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.381475s] [吞吐率：2.62req/s] [内存消耗：3,485.11kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000935s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '32f2dc59-af54-4e6d-bab3-eccd16968e1c',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210531',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001013s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.087836s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.044558s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.053093s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.042845s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.048614s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.039455s ]
+[ sql ] [ SQL ] SELECT a.STAT_DATE, SUM(a.PV_NUM),SUM(a.UV_NUM),SUM(a.IP_NUM),SUM(a.CLICK_NUM),SUM(a.CLICK_UV_NUM),SUM(a.CLICK_IP_NUM),SUM(a.SITE_USER_PROFIT)
+                FROM (SELECT * FROM stat_ad_day WHERE user_id = 2 AND STAT_DATE BETWEEN 20210531 AND 20210531) AS a 
+                GROUP BY a.STAT_DATE [ RunTime:0.033054s ]
+---------------------------------------------------------------
+[ 2021-06-02T16:02:25+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.271713s] [吞吐率：3.68req/s] [内存消耗：3,485.56kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001035s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => 'e1f319d3-d199-4785-990c-3658b2e3e39a',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210531',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000953s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.045179s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.032280s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.029188s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.029303s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.029372s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.028464s ]
+[ sql ] [ SQL ] SELECT a.STAT_DATE, SUM(a.PV_NUM) PV_NUM,SUM(a.UV_NUM) UV_NUM,SUM(a.IP_NUM) IP_NUM,SUM(a.CLICK_NUM) CLICK_NUM,SUM(a.CLICK_UV_NUM) CLICK_UV_NUM,SUM(a.CLICK_IP_NUM) CLICK_IP_NUM,SUM(a.SITE_USER_PROFIT) SITE_USER_PROFIT
+                FROM (SELECT * FROM stat_ad_day WHERE user_id = 2 AND STAT_DATE BETWEEN 20210531 AND 20210531) AS a 
+                GROUP BY a.STAT_DATE [ RunTime:0.046788s ]
+---------------------------------------------------------------
+[ 2021-06-02T16:02:34+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.337438s] [吞吐率：2.96req/s] [内存消耗：3,492.41kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000029s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001470s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '87',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '44ddcf31-5619-46e0-9453-961abc6be438',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210531',
+  'AD_ID' => '-1',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001605s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.048297s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.031505s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.033333s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.030370s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.041695s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.030596s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `stat_ad_day` [ RunTime:0.032900s ]
+[ sql ] [ SQL ] SELECT `STAT_DATE`,`AD_NAME`,`PV_NUM`,`SITE_USER_PROFIT` FROM `stat_ad_day` WHERE  `USER_ID` = 2  AND `AD_ID` = -1  AND `STAT_DATE` BETWEEN '20210531' AND '20210531' [ RunTime:0.042609s ]
+---------------------------------------------------------------
+[ 2021-06-02T16:03:12+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.413811s] [吞吐率：2.42req/s] [内存消耗：3,495.57kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000894s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '87',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '4288eb28-2920-4934-87d0-194ada5abe3f',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210531',
+  'AD_ID' => '-1',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001040s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.084579s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.044442s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.045498s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.044538s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.044514s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.045398s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `stat_ad_day` [ RunTime:0.030312s ]
+[ sql ] [ SQL ] SELECT `STAT_DATE`,`PV_NUM`,`UV_NUM`,`IP_NUM`,`CLICK_NUM`,`CLICK_UV_NUM`,`CLICK_IP_NUM`,`SITE_USER_PROFIT` FROM `stat_ad_day` WHERE  `USER_ID` = 2  AND `AD_ID` = -1  AND `STAT_DATE` BETWEEN '20210531' AND '20210531' [ RunTime:0.042832s ]
+---------------------------------------------------------------
+[ 2021-06-02T16:04:25+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.263846s] [吞吐率：3.79req/s] [内存消耗：3,485.59kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001063s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '05bc8797-2b5f-4175-9505-7e625dbe4478',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210531',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001107s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.043970s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.029561s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.033048s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.030735s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.029922s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.029948s ]
+[ sql ] [ SQL ] SELECT a.STAT_DATE, SUM(a.PV_NUM) PV_NUM,SUM(a.UV_NUM) UV_NUM,SUM(a.IP_NUM) IP_NUM,SUM(a.CLICK_NUM) CLICK_NUM,SUM(a.CLICK_UV_NUM) CLICK_UV_NUM,SUM(a.CLICK_IP_NUM) CLICK_IP_NUM,SUM(a.SITE_USER_PROFIT) SITE_USER_PROFIT
+                FROM (SELECT * FROM stat_ad_day WHERE user_id = 2 AND STAT_DATE BETWEEN 20210531 AND 20210531) AS a 
+                GROUP BY a.STAT_DATE [ RunTime:0.035372s ]
+---------------------------------------------------------------
+[ 2021-06-02T16:32:20+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.280716s] [吞吐率：3.56req/s] [内存消耗：3,485.63kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001405s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '33517d3f-5e8f-4b9a-b247-2f602cea14ca',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210531',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001420s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.043481s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.032445s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.030466s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.030777s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.029991s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.033438s ]
+[ sql ] [ SQL ] SELECT a.STAT_DATE, SUM(a.PV_NUM) PV_NUM,SUM(a.UV_NUM) UV_NUM,SUM(a.IP_NUM) IP_NUM,SUM(a.CLICK_NUM) CLICK_NUM,SUM(a.CLICK_UV_NUM) CLICK_UV_NUM,SUM(a.CLICK_IP_NUM) CLICK_IP_NUM,SUM(a.SITE_USER_PROFIT) SITE_USER_PROFIT
+                FROM (SELECT * FROM stat_ad_day WHERE user_id = 2 AND STAT_DATE BETWEEN 20210531 AND 20210531) AS a 
+                GROUP BY a.STAT_DATE [ RunTime:0.038196s ]
+---------------------------------------------------------------
+[ 2021-06-02T16:32:25+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.260353s] [吞吐率：3.84req/s] [内存消耗：3,486.09kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000952s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '917b8efe-3733-4b32-b5fb-2bc85e475ca0',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210601',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001095s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.042179s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.031831s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.028727s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.030200s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.030295s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.029080s ]
+[ sql ] [ SQL ] SELECT a.STAT_DATE, SUM(a.PV_NUM) PV_NUM,SUM(a.UV_NUM) UV_NUM,SUM(a.IP_NUM) IP_NUM,SUM(a.CLICK_NUM) CLICK_NUM,SUM(a.CLICK_UV_NUM) CLICK_UV_NUM,SUM(a.CLICK_IP_NUM) CLICK_IP_NUM,SUM(a.SITE_USER_PROFIT) SITE_USER_PROFIT
+                FROM (SELECT * FROM stat_ad_day WHERE user_id = 2 AND STAT_DATE BETWEEN 20210531 AND 20210601) AS a 
+                GROUP BY a.STAT_DATE [ RunTime:0.037069s ]
+---------------------------------------------------------------
+[ 2021-06-02T16:32:53+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.294906s] [吞吐率：3.39req/s] [内存消耗：3,486.09kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000902s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '11fb9a92-073a-49c9-a5d2-75d9d1dc00da',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210601',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001009s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.060415s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.028676s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.043800s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.033034s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.032523s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.033693s ]
+[ sql ] [ SQL ] SELECT a.STAT_DATE, SUM(a.PV_NUM) PV_NUM,SUM(a.UV_NUM) UV_NUM,SUM(a.IP_NUM) IP_NUM,SUM(a.CLICK_NUM) CLICK_NUM,SUM(a.CLICK_UV_NUM) CLICK_UV_NUM,SUM(a.CLICK_IP_NUM) CLICK_IP_NUM,SUM(a.SITE_USER_PROFIT) SITE_USER_PROFIT
+                FROM (SELECT * FROM stat_ad_day WHERE user_id = 2 AND STAT_DATE BETWEEN 20210531 AND 20210601) AS a 
+                GROUP BY a.STAT_DATE [ RunTime:0.030595s ]
+---------------------------------------------------------------
+[ 2021-06-02T18:38:16+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.331138s] [吞吐率：3.02req/s] [内存消耗：3,486.09kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000066s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001466s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => 'c9398875-59fe-40af-87a5-5a2cc1da0be5',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210601',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001975s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.046851s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.033998s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.031084s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.031928s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.036687s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.045891s ]
+[ sql ] [ SQL ] SELECT a.STAT_DATE, SUM(a.PV_NUM) PV_NUM,SUM(a.UV_NUM) UV_NUM,SUM(a.IP_NUM) IP_NUM,SUM(a.CLICK_NUM) CLICK_NUM,SUM(a.CLICK_UV_NUM) CLICK_UV_NUM,SUM(a.CLICK_IP_NUM) CLICK_IP_NUM,SUM(a.SITE_USER_PROFIT) SITE_USER_PROFIT
+                FROM (SELECT * FROM stat_ad_day WHERE user_id = 2 AND STAT_DATE BETWEEN 20210531 AND 20210601) AS a 
+                GROUP BY a.STAT_DATE [ RunTime:0.045516s ]
+---------------------------------------------------------------
+[ 2021-06-02T18:41:59+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.274436s] [吞吐率：3.64req/s] [内存消耗：3,486.09kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001667s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => 'b1889e75-2469-4b5c-a096-68463e5ffaae',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210601',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001974s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.042431s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.030684s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.027288s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.038965s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.033042s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.026422s ]
+[ sql ] [ SQL ] SELECT a.STAT_DATE, SUM(a.PV_NUM) PV_NUM,SUM(a.UV_NUM) UV_NUM,SUM(a.IP_NUM) IP_NUM,SUM(a.CLICK_NUM) CLICK_NUM,SUM(a.CLICK_UV_NUM) CLICK_UV_NUM,SUM(a.CLICK_IP_NUM) CLICK_IP_NUM,SUM(a.SITE_USER_PROFIT) SITE_USER_PROFIT
+                FROM (SELECT * FROM stat_ad_day WHERE user_id = 2 AND STAT_DATE BETWEEN 20210531 AND 20210601) AS a 
+                GROUP BY a.STAT_DATE [ RunTime:0.026616s ]
+---------------------------------------------------------------
+[ 2021-06-02T18:44:49+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.274340s] [吞吐率：3.65req/s] [内存消耗：3,486.09kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000021s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001352s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => 'b1bcbc2e-8eb0-493f-ab8d-b0cfdc6a28b7',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210601',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001334s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.050202s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.029950s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.032304s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.029855s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.032218s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.029761s ]
+[ sql ] [ SQL ] SELECT a.STAT_DATE, SUM(a.PV_NUM) PV_NUM,SUM(a.UV_NUM) UV_NUM,SUM(a.IP_NUM) IP_NUM,SUM(a.CLICK_NUM) CLICK_NUM,SUM(a.CLICK_UV_NUM) CLICK_UV_NUM,SUM(a.CLICK_IP_NUM) CLICK_IP_NUM,SUM(a.SITE_USER_PROFIT) SITE_USER_PROFIT
+                FROM (SELECT * FROM stat_ad_day WHERE user_id = 2 AND STAT_DATE BETWEEN 20210531 AND 20210601) AS a 
+                GROUP BY a.STAT_DATE [ RunTime:0.028628s ]
+---------------------------------------------------------------
+[ 2021-06-02T18:48:42+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.319789s] [吞吐率：3.13req/s] [内存消耗：3,486.09kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000036s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001384s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '3938cbf7-118a-4752-bd17-622e5d580518',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210601',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001571s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.047904s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.035149s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.040397s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.038471s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.045372s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.029266s ]
+[ sql ] [ SQL ] SELECT a.STAT_DATE STAT_DATE, SUM(a.PV_NUM) PV_NUM,SUM(a.UV_NUM) UV_NUM,SUM(a.IP_NUM) IP_NUM,SUM(a.CLICK_NUM) CLICK_NUM,SUM(a.CLICK_UV_NUM) CLICK_UV_NUM,SUM(a.CLICK_IP_NUM) CLICK_IP_NUM,SUM(a.SITE_USER_PROFIT) SITE_USER_PROFIT
+                FROM (SELECT * FROM stat_ad_day WHERE user_id = 2 AND STAT_DATE BETWEEN 20210531 AND 20210601) AS a 
+                GROUP BY a.STAT_DATE [ RunTime:0.041823s ]
+---------------------------------------------------------------
+[ 2021-06-02T18:50:13+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.373645s] [吞吐率：2.68req/s] [内存消耗：3,486.09kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000932s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '78',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '54f92a7d-7b44-45f4-9c8e-9e83480633ad',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'token' => '345e894d-cb90-4707-83c2-62ef554fd4c0',
+  'beginDate' => '20210531',
+  'endDate' => '20210601',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001459s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Stats->dayStats[ D:\phpstudy_pro\WWW\FastAdmin\application\api\controller\Stats.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.111490s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.036269s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.044108s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user` [ RunTime:0.034795s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.042905s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = '0935b4600677b705f755a53b1c2d1da85f126787' LIMIT 1 [ RunTime:0.032651s ]
+[ sql ] [ SQL ] SELECT a.STAT_DATE STAT_DATE, SUM(a.PV_NUM) PV_NUM,SUM(a.UV_NUM) UV_NUM,SUM(a.IP_NUM) IP_NUM,SUM(a.CLICK_NUM) CLICK_NUM,SUM(a.CLICK_UV_NUM) CLICK_UV_NUM,SUM(a.CLICK_IP_NUM) CLICK_IP_NUM,SUM(a.SITE_USER_PROFIT) SITE_USER_PROFIT
+                FROM (SELECT * FROM stat_ad_day WHERE user_id = 2 AND STAT_DATE BETWEEN 20210531 AND 20210601) AS a 
+                GROUP BY a.STAT_DATE [ RunTime:0.037716s ]
+---------------------------------------------------------------
+[ 2021-06-02T18:51:42+08:00 ] 0.0.0.0 POST localhost/FastAdmin/public/api/Stats/dayStats
+[运行时间：0.203755s] [吞吐率：4.91req/s] [内存消耗：3,115.05kb] [文件加载：125]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001306s ]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Stats',
+    2 => 'dayStats',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=841bba73d08c073c404fe0d098afc951',
+  'content-length' => '35',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost',
+  'postman-token' => '7b7673c8-d09a-4d43-910f-073f9e4ae8a6',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.26.8',
+)
+[ info ] [ PARAM ] array (
+  'beginDate' => '20210531',
+  'endDate' => '20210601',
+)
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\FastAdmin\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001323s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.058412s ] mysql:host=47.57.190.117;dbname=wm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `sys_user_token` [ RunTime:0.061973s ]
+[ sql ] [ SQL ] SELECT * FROM `sys_user_token` WHERE  `token` = 'd8aa945b8448d8a41ab99c04b04f9e522294b47c' LIMIT 1 [ RunTime:0.044978s ]
